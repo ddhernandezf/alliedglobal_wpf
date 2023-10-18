@@ -4,23 +4,17 @@
         xmlns:local="clr-namespace:CaseNumberLookupWPFApp" FocusManager.FocusedElement="{Binding ElementName=txtInput}"
         Title="MainWindow" Height="353" Width="741" WindowStartupLocation="CenterScreen">
     
-    <Window.Resources>
-        <local:MainViewModel x:Key="ViewModel" />
-    </Window.Resources>
-    <Window.DataContext>
-        <Binding Source="{StaticResource ViewModel}" />
-    </Window.DataContext>
     <Grid>
         <StackPanel Orientation="Vertical">
             <StackPanel Orientation="Horizontal">
                 <Label Content="Case # " />
-                <TextBox Margin="10,0,0,0"  Width="100" x:Name="txtInput">
-                     
-                </TextBox>
-                <Button  Margin="10,0,0,0"  Content="Add To List" />
+                <TextBox Text="{Binding input}" Margin="10,0,0,0"  Width="100" x:Name="txtInput" />
+                <Button x:Name="addButton" Margin="10,0,0,0"  Content="Add To List" />
+                <Button x:Name="ascButton" Margin="10,0,0,0"  Content="ASC" />
+                <Button x:Name="descButton" Margin="10,0,0,0"  Content="DESC" />
             </StackPanel>
-            
-            <ListBox Width="300" Height="150"   HorizontalAlignment="Left" Margin="50,20,0,0"/>
+
+            <ListBox ItemsSource="{Binding numbers}" Width="300" Height="150"   HorizontalAlignment="Left" Margin="50,20,0,0"/>
 
             <Label Content="Enough Cases Have Been Entered" />
 
