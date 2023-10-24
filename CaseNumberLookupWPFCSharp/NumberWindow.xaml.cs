@@ -1,14 +1,16 @@
-﻿using System.Collections.ObjectModel;
+﻿using CaseNumberLookupWPFApp.ViewModel;
+using System.Collections.ObjectModel;
 using System.Windows;
 
 namespace CaseNumberLookupWPFApp
 {
-    public partial class MainWindow : Window
+    public partial class NumberWindow : Window
     {
-        public MainWindow()
+        NumberVM model = new NumberVM();
+
+        public NumberWindow()
         {
             InitializeComponent();
-            NumberViewModel model = new NumberViewModel(this.addButton, this.ascButton, this.descButton);
 
             model.numbers = new ObservableCollection<int>() { 2, 23, 12, 44 };
             this.DataContext = model;
