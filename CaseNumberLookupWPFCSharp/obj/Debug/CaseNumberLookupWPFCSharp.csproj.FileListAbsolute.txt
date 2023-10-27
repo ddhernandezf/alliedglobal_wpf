@@ -1,0 +1,134 @@
+C:\Users\lleavenworth\Documents\Visual Studio 2017\Projects\DeveloperTests\CaseNumberLookupWPFApp\bin\Debug\CaseNumberLookupWPFApp.exe.config
+C:\Users\lleavenworth\Documents\Visual Studio 2017\Projects\DeveloperTests\CaseNumberLookupWPFApp\obj\Debug\CaseNumberLookupWPFApp.exe
+C:\Users\lleavenworth\Documents\Visual Studio 2017\Projects\DeveloperTests\CaseNumberLookupWPFApp\obj\Debug\CaseNumberLookupWPFApp.pdb
+C:\Users\lleavenworth\Documents\Visual Studio 2017\Projects\DeveloperTests\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe.config
+C:\Users\lleavenworth\Documents\Visual Studio 2017\Projects\DeveloperTests\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.exe
+C:\Users\lleavenworth\Documents\Visual Studio 2017\Projects\DeveloperTests\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.pdb
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe.config
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.exe
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.pdb
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.pdb
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csprojAssemblyReference.cache
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.g.cs
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\App.g.cs
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.cache
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.lref
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.baml
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.g.resources
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.Properties.Resources.resources
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.GenerateResource.cache
+C:\DeveloperTests\DeveloperTests_Answers\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.CoreCompileInputs.cache
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe.config
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.pdb
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csprojAssemblyReference.cache
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.g.cs
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\App.g.cs
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.cache
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.lref
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.baml
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.g.resources
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.Properties.Resources.resources
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.GenerateResource.cache
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.CoreCompileInputs.cache
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.exe
+C:\DeveloperTests\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.pdb
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe.config
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.pdb
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csprojAssemblyReference.cache
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.g.cs
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\App.g.cs
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.cache
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.lref
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.baml
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.g.resources
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.Properties.Resources.resources
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.GenerateResource.cache
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.CoreCompileInputs.cache
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.exe
+C:\Releases\DeveloperTests_Answers2\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.pdb
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe.config
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.pdb
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csprojAssemblyReference.cache
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.g.cs
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\App.g.cs
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.cache
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.lref
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.baml
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.g.resources
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.Properties.Resources.resources
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.GenerateResource.cache
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.CoreCompileInputs.cache
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.exe
+C:\Releases\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.pdb
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe.config
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.pdb
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.AssemblyReference.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.g.cs
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\App.g.cs
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.lref
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.baml
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.g.resources
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.Properties.Resources.resources
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.GenerateResource.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.exe
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.pdb
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe.config
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.pdb
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.AssemblyReference.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.g.cs
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\App.g.cs
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.lref
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.baml
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.g.resources
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.Properties.Resources.resources
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.GenerateResource.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.exe
+C:\Users\lleavenworth\Documents\DeveloperTests_Blank - Copy (3)\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.pdb
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe.config
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.pdb
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.AssemblyReference.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.g.cs
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\App.g.cs
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.lref
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.baml
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.g.resources
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.Properties.Resources.resources
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.GenerateResource.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.exe
+C:\Users\lleavenworth\Documents\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.pdb
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe.config
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.exe
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\bin\Debug\CaseNumberLookupWPFApp.pdb
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.AssemblyReference.cache
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.g.cs
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\App.g.cs
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.cache
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp_MarkupCompile.lref
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\MainWindow.baml
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.g.resources
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.Properties.Resources.resources
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.GenerateResource.cache
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFCSharp.csproj.CoreCompileInputs.cache
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.exe
+C:\Users\garcia.l105974\Desktop\DeveloperTests_WPF\CaseNumberLookupWPFCSharp\obj\Debug\CaseNumberLookupWPFApp.pdb
